@@ -19,6 +19,7 @@ gh repo clone RoosvelQuituisaca/-Sistema-de-Gesti-n-de-Hotel-
 3. Ejecutar: abrir en visual studio code.      
 ## Capturas  
 MVC
+
 <img width="304" height="576" alt="image" src="https://github.com/user-attachments/assets/fbe6f754-36f7-4f81-906f-4c20f59de31e" />
 
 Programa
