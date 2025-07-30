@@ -13,8 +13,10 @@ Examen Final - Proyecto con Java Swing y MVC
 - javax.swing.
 - calendar   
 ## Instrucciones   
-1. Clonar repositorio: `git clone [url]`   
-2. Ejecutar: abrir en visual studio code.      
+1. Clonar repositorio:
+gh repo clone RoosvelQuituisaca/-Sistema-de-Gesti-n-de-Hotel-
+   
+3. Ejecutar: abrir en visual studio code.      
 ## Capturas   
 <img width="346" height="177" alt="image" src="https://github.com/user-attachments/assets/330693d0-2f1b-4595-b73b-55c1065fd5ed" />
 
