@@ -1,8 +1,10 @@
 Examen Final - Proyecto con Java Swing y MVC 
 # Sistema de Gestión de Hotel   
 ## Integrantes   
-Roosvel Quituisaca
-Erika Loja 
+-Roosvel Quituisaca
+
+-Erika Loja 
+
 ## Requisitos   
 - Java 11+   - Librerías: [ JCalendar, etc.]   
 ## Instrucciones   
