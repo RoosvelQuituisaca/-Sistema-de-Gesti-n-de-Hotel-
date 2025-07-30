@@ -22,6 +22,11 @@ MVC
 
 <img width="304" height="576" alt="image" src="https://github.com/user-attachments/assets/fbe6f754-36f7-4f81-906f-4c20f59de31e" />
 
+main
+
+<img width="606" height="506" alt="image" src="https://github.com/user-attachments/assets/3c0bc3d3-7051-46bb-990e-2029639dbc69" />
+
+
 Programa
 
 <img width="346" height="177" alt="image" src="https://github.com/user-attachments/assets/330693d0-2f1b-4595-b73b-55c1065fd5ed" />
