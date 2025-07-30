@@ -39,7 +39,8 @@ Programa
  
 ## Diagrama UML   
 
-  <img width="1536" height="1024" alt="diagrama" src="https://github.com/user-attachments/assets/868ae142-d92f-4e48-9d88-186c4825627e" />
+ ![Imagen de WhatsApp 2025-07-30 a las 08 32 58_875cb1f5](https://github.com/user-attachments/assets/ccb029f0-ac60-4361-80f4-3d1e545a1900)
+
 
 ## Video URL
 
