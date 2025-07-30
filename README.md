@@ -30,3 +30,6 @@ gh repo clone RoosvelQuituisaca/-Sistema-de-Gesti-n-de-Hotel-
 
   <img width="1536" height="1024" alt="diagrama" src="https://github.com/user-attachments/assets/868ae142-d92f-4e48-9d88-186c4825627e" />
 
+
+  
+
