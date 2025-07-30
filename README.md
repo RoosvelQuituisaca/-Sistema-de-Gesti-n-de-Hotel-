@@ -17,7 +17,12 @@ Examen Final - Proyecto con Java Swing y MVC
 gh repo clone RoosvelQuituisaca/-Sistema-de-Gesti-n-de-Hotel-
    
 3. Ejecutar: abrir en visual studio code.      
-## Capturas   
+## Capturas  
+MVC
+<img width="304" height="576" alt="image" src="https://github.com/user-attachments/assets/fbe6f754-36f7-4f81-906f-4c20f59de31e" />
+
+Programa
+
 <img width="346" height="177" alt="image" src="https://github.com/user-attachments/assets/330693d0-2f1b-4595-b73b-55c1065fd5ed" />
 
 <img width="934" height="700" alt="image" src="https://github.com/user-attachments/assets/d182c828-2cd3-463a-8c1d-9f8cb86d9054" />
