@@ -6,7 +6,12 @@ Examen Final - Proyecto con Java Swing y MVC
 -Erika Loja 
 
 ## Requisitos   
-- Java 11+   - Librerías: [ JCalendar, etc.]   
+- Java 11+
+-visual studio code
+
+- Librerías:
+- javax.swing.
+- calendar   
 ## Instrucciones   
 1. Clonar repositorio: `git clone [url]`   
 2. Ejecutar: abrir en visual studio code.      
