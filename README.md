@@ -31,7 +31,8 @@ Programa
 
 <img width="346" height="177" alt="image" src="https://github.com/user-attachments/assets/330693d0-2f1b-4595-b73b-55c1065fd5ed" />
 
-<img width="934" height="700" alt="image" src="https://github.com/user-attachments/assets/d182c828-2cd3-463a-8c1d-9f8cb86d9054" />
+<img width="937" height="707" alt="image" src="https://github.com/user-attachments/assets/211a5d8c-65c2-453f-9324-6d75afdb44a2" />
+
 
 <img width="932" height="643" alt="image" src="https://github.com/user-attachments/assets/1684e7fb-89a9-44c8-9beb-8ff5ea8471f1" />
 
